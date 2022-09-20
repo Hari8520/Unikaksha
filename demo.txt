@@ -1,0 +1,3 @@
+=int(input("enter tuition fee="))
+b=int(input("enter bus fee="))
+print(f'you need to pay'{a+b})
